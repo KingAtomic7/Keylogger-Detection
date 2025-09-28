@@ -106,6 +106,3 @@ Notes for instructors / lab creators
 - The goal of this project is to let students practice detection, triage, and
   forensic collection in a controlled, ethical manner.
 
-Contact / Attribution
----------------------
-- Created by an educational assistant for safe learning.
